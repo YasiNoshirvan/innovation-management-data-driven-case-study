@@ -1,0 +1,3 @@
+- [Project Summary](project_summary.md)
+- [Company Profile](company_profile.md)
+- [Project Slides](DBC_Paper_Innovation_Management_Project.pdf)
